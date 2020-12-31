@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**even996/even996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###  👋 Hey I'm Even a software developer 👋
+<br></br>
+###  ⚡ I'm a 25 year old guy from the city of Bergen looking for new challenges 
+###  👯 I like to code and do sports. 👯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  🌱For 2021 my goals is to master React and make Flutter apps. 
+
+
+###  💬 You can reach me on mail: evenolsen96@gmail.com
+
+
+
+
