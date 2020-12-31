@@ -8,7 +8,6 @@
 ###  🌱For 2021 my goals is to master React and make Flutter apps. 
 
 
-###  💬 You can reach me on mail: evenolsen96@gmail.com
 
 
 
